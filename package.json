@@ -1,0 +1,14 @@
+{
+  "name": "tp-movie",
+  "version": "1.0.0",
+  "description": "Aujourd'hui, nous allons faire un tp fetch en y intégrant l'HTML/CSS/JS (bien sur 😉)",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.0.1"
+  }
+}
